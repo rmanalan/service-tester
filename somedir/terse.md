@@ -1,0 +1,3 @@
+# Testing terse config
+
+test
